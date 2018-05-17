@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sung's Open Source Contributions]]></title><description><![CDATA[Tracking contributions made for FOSS (Free/Open Source Software)]]></description><link>https://dance2die.github.io/OpenSouceContributions/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 May 2018 21:53:34 GMT</lastBuildDate><item><title><![CDATA[List of Contributions]]></title><description><![CDATA[HyperApp 🔗 Site:  https://hyperapp.js.org/ ❓ What: Fixed a broken link in documentation 📌Pull Request:  https://github.com/hyperapp…]]></description><link>https://dance2die.github.io/OpenSouceContributions//contributions/</link><guid isPermaLink="false">https://dance2die.github.io/OpenSouceContributions//contributions/</guid><pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;HyperApp&lt;/h3&gt;
+&lt;p&gt;🔗 Site: &lt;a href=&quot;https://hyperapp.js.org/&quot;&gt;https://hyperapp.js.org/&lt;/a&gt;&lt;br&gt;
+❓ What: Fixed a broken link in documentation&lt;br&gt;
+📌Pull Request: &lt;a href=&quot;https://github.com/hyperapp/hyperapp/pull/550&quot;&gt;https://github.com/hyperapp/hyperapp/pull/550&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;VSTS Documentation&lt;/h3&gt;
+&lt;p&gt;🔗 Site: &lt;a href=&quot;https://docs.microsoft.com/en-us/vsts/accounts/rename-vsts-account&quot;&gt;https://docs.microsoft.com/en-us/vsts/accounts/rename-vsts-account&lt;/a&gt;&lt;br&gt;
+❓ What: Added an explanation for VSTO account URL rename validation message&lt;br&gt;
+📌Pull Request: &lt;a href=&quot;https://github.com/MicrosoftDocs/vsts-docs/pull/134&quot;&gt;https://github.com/MicrosoftDocs/vsts-docs/pull/134&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;ASP.NET Security OAuth Provider&lt;/h3&gt;
+&lt;p&gt;🔗 Site: &lt;a href=&quot;https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers&quot;&gt;https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers&lt;/a&gt;&lt;br&gt;
+❓ What: Added “Meetup.com” provider&lt;br&gt;
+📌Pull Request: &lt;a href=&quot;https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers/pull/220&quot;&gt;https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers/pull/220&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;reactjs/react-lifecycles-compat&lt;/h3&gt;
+&lt;p&gt;🔗 Site: &lt;a href=&quot;https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers&quot;&gt;https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers&lt;/a&gt;&lt;br&gt;
+❓ What: Reported a broken link in README
+📌Issue: &lt;a href=&quot;https://github.com/reactjs/react-lifecycles-compat/issues/3&quot;&gt;https://github.com/reactjs/react-lifecycles-compat/issues/3&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;dotnet/templating&lt;/h3&gt;
+&lt;p&gt;🔗 Site: &lt;a href=&quot;https://github.com/dotnet/templating&quot;&gt;https://github.com/dotnet/templating&lt;/a&gt;&lt;br&gt;
+❓ What: Reported &lt;code class=&quot;language-text&quot;&gt;dotnet new&lt;/code&gt; template issue&lt;br&gt;
+📌Issue: &lt;a href=&quot;https://github.com/dotnet/templating/pull/1500&quot;&gt;https://github.com/dotnet/templating/pull/1500&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;jlengstorf/learn-rollup&lt;/h3&gt;
+&lt;p&gt;🔗 Site: &lt;a href=&quot;https://code.lengstorf.com/learn-rollup-js/&quot;&gt;https://code.lengstorf.com/learn-rollup-js/&lt;/a&gt;&lt;br&gt;
+❓ What: Reported outdated tutorial&lt;br&gt;
+📌Issue: &lt;a href=&quot;https://github.com/jlengstorf/learn-rollup/issues/48&quot;&gt;https://github.com/jlengstorf/learn-rollup/issues/48&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;johnmpotter/npm-trends&lt;/h3&gt;
+&lt;p&gt;🔗 Site: &lt;a href=&quot;http://www.npmtrends.com/&quot;&gt;http://www.npmtrends.com/&lt;/a&gt;&lt;br&gt;
+❓ What: Reported webpage error&lt;br&gt;
+📌Issue: &lt;a href=&quot;https://github.com/johnmpotter/npm-trends/issues/18&quot;&gt;https://github.com/johnmpotter/npm-trends/issues/18&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>

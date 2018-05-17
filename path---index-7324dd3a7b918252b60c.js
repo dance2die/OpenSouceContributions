@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{391:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Sung's Open Source Contributions"}},allMarkdownRemark:{edges:[{node:{excerpt:"HyperApp 🔗 Site:  https://hyperapp.js.org/ ❓ What: Fixed a broken link in documentation 📌Pull Request:  https://github.com/hyperapp…",fields:{slug:"/contributions/"},frontmatter:{date:"17 May, 2018",title:"List of Contributions"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-7324dd3a7b918252b60c.js.map

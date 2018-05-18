@@ -59,8 +59,12 @@ class Template extends React.Component {
 
     const navigation = (
       <ul style={{ listStyle: `none`, float: `right` }}>
-        <ListLink to="https://www.sungkim.co/">Home</ListLink>
-        <ListLink to="https://twitter.com/slightedgecoder">Contact</ListLink>
+        <ListLink target="_self" href="https://www.sungkim.co/">
+          Home
+        </ListLink>
+        <ListLink target="_blank" href="https://twitter.com/slightedgecoder">
+          Contact
+        </ListLink>
       </ul>
     )
 
@@ -81,10 +85,10 @@ class Template extends React.Component {
   }
 }
 
-const ListLink = props => (
+const ListLink = ({ target, href, children }) => (
   <li style={{ display: `inline-block`, marginRight: `1rem` }}>
-    <a target="_blank" href={props.to}>
-      {props.children}
+    <a target={target} href={href}>
+      {children}
     </a>
   </li>
 )

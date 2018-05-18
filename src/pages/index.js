@@ -4,6 +4,7 @@ import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
 import Bio from '../components/Bio'
+import Purpose from '../components/Purpose'
 import { rhythm } from '../utils/typography'
 
 class BlogIndex extends React.Component {
@@ -14,6 +15,7 @@ class BlogIndex extends React.Component {
     return (
       <div>
         <Helmet title={siteTitle} />
+        <Purpose />
         <Bio />
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug

@@ -56,6 +56,14 @@ class Template extends React.Component {
         </h3>
       )
     }
+
+    const navigation = (
+      <ul style={{ listStyle: `none`, float: `right` }}>
+        <ListLink to="https://www.sungkim.co/">Home</ListLink>
+        <ListLink to="https://twitter.com/slightedgecoder">Contact</ListLink>
+      </ul>
+    )
+
     return (
       <div
         style={{
@@ -65,11 +73,20 @@ class Template extends React.Component {
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
+        {navigation}
         {header}
         {children()}
       </div>
     )
   }
 }
+
+const ListLink = props => (
+  <li style={{ display: `inline-block`, marginRight: `1rem` }}>
+    <a target="_blank" href={props.to}>
+      {props.children}
+    </a>
+  </li>
+)
 
 export default Template

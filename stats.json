@@ -4,6 +4,10 @@
       "component---src-pages-index-js-21053e3b3e29a6da117d.js",
       "component---src-pages-index-js-21053e3b3e29a6da117d.js.map"
     ],
+    "path---issues": [
+      "path---issues-ca780e858bb9f90682ad.js",
+      "path---issues-ca780e858bb9f90682ad.js.map"
+    ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
@@ -21,8 +25,8 @@
       "component---src-layouts-index-js-123549c7642f76dc45ae.js.map"
     ],
     "path---index": [
-      "path---index-7324dd3a7b918252b60c.js",
-      "path---index-7324dd3a7b918252b60c.js.map"
+      "path---index-30278a2777a34eb09282.js",
+      "path---index-30278a2777a34eb09282.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -42,19 +46,19 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---pr": [
+      "path---pr-91d551eb56659368dc13.js",
+      "path---pr-91d551eb56659368dc13.js.map"
+    ],
     "app": [
-      "app-2d2239659a4b604191c8.js",
+      "app-0ca18bafdd124dd035ec.js",
       "build-js-styles.css",
-      "app-2d2239659a4b604191c8.js.map",
+      "app-0ca18bafdd124dd035ec.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---contributions": [
-      "path---contributions-04b99303deb5a405450f.js",
-      "path---contributions-04b99303deb5a405450f.js.map"
     ]
   }
 }

@@ -51,7 +51,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Sung's Open Source Contributions
+            &larr; Sung's Open Source Contributions
           </Link>
         </h3>
       )

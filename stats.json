@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-49c24264b2815157dc94.js",
-      "component---src-pages-index-js-49c24264b2815157dc94.js.map"
+      "component---src-pages-index-js-f1293e88ef495305200b.js",
+      "component---src-pages-index-js-f1293e88ef495305200b.js.map"
     ],
     "path---issues": [
       "path---issues-ca780e858bb9f90682ad.js",
@@ -17,12 +17,12 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-51182bdea14187a0fbb8.js",
-      "component---src-templates-blog-post-js-51182bdea14187a0fbb8.js.map"
+      "component---src-templates-blog-post-js-fb0efe94f0217a0f0860.js",
+      "component---src-templates-blog-post-js-fb0efe94f0217a0f0860.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-97abf4aa126226af2591.js",
-      "component---src-layouts-index-js-97abf4aa126226af2591.js.map"
+      "component---src-layouts-index-js-f70c8332f2f9b94bd32f.js",
+      "component---src-layouts-index-js-f70c8332f2f9b94bd32f.js.map"
     ],
     "path---index": [
       "path---index-30278a2777a34eb09282.js",
@@ -51,9 +51,9 @@
       "path---pr-91d551eb56659368dc13.js.map"
     ],
     "app": [
-      "app-0ca18bafdd124dd035ec.js",
+      "app-4e4608dc89a701fc14e3.js",
       "build-js-styles.css",
-      "app-0ca18bafdd124dd035ec.js.map",
+      "app-4e4608dc89a701fc14e3.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [

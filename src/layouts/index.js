@@ -59,7 +59,7 @@ class Template extends React.Component {
 
     const navigation = (
       <ul style={{ listStyle: `none`, float: `right` }}>
-        <ListLink target="_self" href="https://www.sungkim.co/">
+        <ListLink target="_self" href="https://sungkim.co/">
           Home
         </ListLink>
         <ListLink target="_blank" href="https://twitter.com/slightedgecoder">
